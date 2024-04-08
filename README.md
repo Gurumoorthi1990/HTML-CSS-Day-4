@@ -1,1 +1,1 @@
-Create the Bio date using Overflow, Font and Media query
+Create a Bio data using Overflow, Font and Media query
